@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## Hello👋 I'm Khushi Patel 👨🏻‍💻
 
-I am a Sr Cloud DevOps Engineer & Polyglot Programmer from India 🇮🇳 and a YouTuber [@learnTechWithSandip](https://www.youtube.com/@learnTechWithSandip)
-
+<--I am a Sr Cloud DevOps Engineer & Polyglot Programmer from India 🇮🇳 and a YouTuber [@learnTechWithSandip](https://www.youtube.com/@learnTechWithSandip)
+-->
 ### Currently I am working with ...
 
 <!-- Cloud Technologies -->
